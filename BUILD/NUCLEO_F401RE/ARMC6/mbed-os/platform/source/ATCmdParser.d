@@ -3,9 +3,10 @@ BUILD/NUCLEO_F401RE/ARMC6/mbed-os/platform/source/ATCmdParser.o: \
   BUILD/NUCLEO_F401RE/ARMC6/mbed_config.h mbed-os/platform/ATCmdParser.h \
   mbed-os/platform/Callback.h mbed-os/platform/mbed_assert.h \
   mbed-os/platform/mbed_toolchain.h mbed-os/platform/mbed_preprocessor.h \
-  mbed-os/platform/NonCopyable.h mbed-os/platform/FileHandle.h \
-  mbed-os/platform/mbed_poll.h mbed-os/platform/platform.h \
-  mbed-os/platform/mbed_retarget.h mbed-os/targets/TARGET_STM/device.h \
+  mbed-os/platform/NonCopyable.h mbed-os/platform/mbed_debug.h \
+  mbed-os/platform/FileHandle.h mbed-os/platform/mbed_poll.h \
+  mbed-os/platform/platform.h mbed-os/platform/mbed_retarget.h \
+  mbed-os/targets/TARGET_STM/device.h \
   mbed-os/targets/TARGET_STM/TARGET_STM32F4/TARGET_STM32F401xE/objects.h \
   mbed-os/targets/TARGET_STM/TARGET_STM32F4/cmsis.h \
   mbed-os/targets/TARGET_STM/TARGET_STM32F4/TARGET_STM32F401xE/device/stm32f4xx.h \
@@ -88,5 +89,4 @@ BUILD/NUCLEO_F401RE/ARMC6/mbed-os/platform/source/ATCmdParser.o: \
   mbed-os/targets/TARGET_STM/TARGET_STM32F4/device/stm32f4xx_ll_pwr.h \
   mbed-os/targets/TARGET_STM/gpio_object.h \
   mbed-os/targets/TARGET_STM/us_ticker_defines.h \
-  mbed-os/targets/TARGET_STM/TARGET_STM32F4/TARGET_STM32F401xE/device/us_ticker_data.h \
-  mbed-os/platform/mbed_debug.h
+  mbed-os/targets/TARGET_STM/TARGET_STM32F4/TARGET_STM32F401xE/device/us_ticker_data.h

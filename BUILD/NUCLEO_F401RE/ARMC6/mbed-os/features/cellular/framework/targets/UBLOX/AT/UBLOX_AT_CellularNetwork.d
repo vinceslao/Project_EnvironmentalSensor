@@ -93,7 +93,8 @@ BUILD/NUCLEO_F401RE/ARMC6/mbed-os/features/cellular/framework/targets/UBLOX/AT/U
   mbed-os/targets/TARGET_STM/us_ticker_defines.h \
   mbed-os/targets/TARGET_STM/TARGET_STM32F4/TARGET_STM32F401xE/device/us_ticker_data.h \
   mbed-os/hal/ticker_api.h mbed-os/platform/NonCopyable.h \
-  mbed-os/platform/mbed_wait_api.h mbed-os/platform/mbed_atomic.h \
+  mbed-os/platform/mbed_debug.h mbed-os/platform/mbed_wait_api.h \
+  mbed-os/platform/mbed_atomic.h \
   mbed-os/platform/cxxsupport/mstd_type_traits \
   mbed-os/platform/cxxsupport/mstd_cstddef \
   mbed-os/platform/internal/mbed_atomic_impl.h \

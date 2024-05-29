@@ -88,5 +88,6 @@ BUILD/NUCLEO_F401RE/ARMC6/mbed-os/drivers/source/SPISlave.o: \
   mbed-os/platform/mbed_assert.h \
   mbed-os/targets/TARGET_STM/us_ticker_defines.h \
   mbed-os/targets/TARGET_STM/TARGET_STM32F4/TARGET_STM32F401xE/device/us_ticker_data.h \
-  mbed-os/platform/NonCopyable.h mbed-os/hal/spi_api.h \
-  mbed-os/hal/pinmap.h mbed-os/hal/dma_api.h mbed-os/hal/buffer.h
+  mbed-os/platform/NonCopyable.h mbed-os/platform/mbed_debug.h \
+  mbed-os/hal/spi_api.h mbed-os/hal/pinmap.h mbed-os/hal/dma_api.h \
+  mbed-os/hal/buffer.h

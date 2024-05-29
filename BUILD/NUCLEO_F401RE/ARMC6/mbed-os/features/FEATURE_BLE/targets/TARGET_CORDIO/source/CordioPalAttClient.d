@@ -28,7 +28,7 @@ BUILD/NUCLEO_F401RE/ARMC6/mbed-os/features/FEATURE_BLE/targets/TARGET_CORDIO/sou
   mbed-os/features/FEATURE_BLE/ble/SafeBool.h \
   mbed-os/features/FEATURE_BLE/ble/gap/Gap.h \
   mbed-os/features/FEATURE_BLE/ble/gap/AdvertisingDataBuilder.h \
-  mbed-os/platform/NonCopyable.h \
+  mbed-os/platform/NonCopyable.h mbed-os/platform/mbed_debug.h \
   mbed-os/features/FEATURE_BLE/ble/gap/AdvertisingDataTypes.h \
   mbed-os/features/FEATURE_BLE/ble/gap/AdvertisingDataSimpleBuilder.h \
   mbed-os/features/FEATURE_BLE/ble/gap/ConnectionParameters.h \

@@ -10,8 +10,9 @@ BUILD/NUCLEO_F401RE/ARMC6/mbed-os/events/source/EventQueue.o: \
   mbed-os/targets/TARGET_STM/mbed_rtx.h mbed-os/platform/Callback.h \
   mbed-os/platform/mbed_assert.h mbed-os/platform/mbed_toolchain.h \
   mbed-os/platform/mbed_preprocessor.h mbed-os/platform/NonCopyable.h \
-  mbed-os/events/mbed_events.h mbed-os/events/Event.h \
-  mbed-os/events/UserAllocatedEvent.h mbed-os/platform/mbed_atomic.h \
+  mbed-os/platform/mbed_debug.h mbed-os/events/mbed_events.h \
+  mbed-os/events/Event.h mbed-os/events/UserAllocatedEvent.h \
+  mbed-os/platform/mbed_atomic.h \
   mbed-os/targets/TARGET_STM/TARGET_STM32F4/cmsis.h \
   mbed-os/targets/TARGET_STM/TARGET_STM32F4/TARGET_STM32F401xE/device/stm32f4xx.h \
   mbed-os/targets/TARGET_STM/TARGET_STM32F4/TARGET_STM32F401xE/device/stm32f401xe.h \

@@ -12,12 +12,13 @@ BUILD/NUCLEO_F401RE/ARMC6/mbed-os/features/cellular/framework/targets/RiotMicro/
   mbed-os/rtos/source/TARGET_CORTEX/rtx4/cmsis_os.h \
   mbed-os/platform/Callback.h mbed-os/platform/mbed_assert.h \
   mbed-os/platform/mbed_toolchain.h mbed-os/platform/mbed_preprocessor.h \
-  mbed-os/platform/NonCopyable.h mbed-os/rtos/Semaphore.h \
-  mbed-os/rtos/Mutex.h mbed-os/platform/ScopedLock.h \
-  mbed-os/rtos/ThisThread.h mbed-os/rtos/RtosTimer.h mbed-os/rtos/Mail.h \
-  mbed-os/rtos/Queue.h mbed-os/platform/mbed_error.h \
-  mbed-os/platform/mbed_retarget.h mbed-os/rtos/MemoryPool.h \
-  mbed-os/rtos/EventFlags.h mbed-os/rtos/ConditionVariable.h \
+  mbed-os/platform/NonCopyable.h mbed-os/platform/mbed_debug.h \
+  mbed-os/rtos/Semaphore.h mbed-os/rtos/Mutex.h \
+  mbed-os/platform/ScopedLock.h mbed-os/rtos/ThisThread.h \
+  mbed-os/rtos/RtosTimer.h mbed-os/rtos/Mail.h mbed-os/rtos/Queue.h \
+  mbed-os/platform/mbed_error.h mbed-os/platform/mbed_retarget.h \
+  mbed-os/rtos/MemoryPool.h mbed-os/rtos/EventFlags.h \
+  mbed-os/rtos/ConditionVariable.h \
   mbed-os/features/cellular/framework/common/CellularCommon.h \
   mbed-os/features/netsocket/nsapi_types.h \
   mbed-os/features/cellular/framework/targets/RiotMicro/AT/RM1000_AT_CellularNetwork.h \

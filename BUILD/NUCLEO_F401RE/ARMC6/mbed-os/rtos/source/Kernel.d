@@ -7,7 +7,7 @@ BUILD/NUCLEO_F401RE/ARMC6/mbed-os/rtos/source/Kernel.o: \
   mbed-os/rtos/source/rtos_handlers.h mbed-os/platform/mbed_critical.h \
   mbed-os/platform/source/mbed_os_timer.h \
   mbed-os/platform/source/SysTimer.h mbed-os/platform/NonCopyable.h \
-  mbed-os/platform/mbed_atomic.h \
+  mbed-os/platform/mbed_debug.h mbed-os/platform/mbed_atomic.h \
   mbed-os/targets/TARGET_STM/TARGET_STM32F4/cmsis.h \
   mbed-os/targets/TARGET_STM/TARGET_STM32F4/TARGET_STM32F401xE/device/stm32f4xx.h \
   mbed-os/targets/TARGET_STM/TARGET_STM32F4/TARGET_STM32F401xE/device/stm32f401xe.h \

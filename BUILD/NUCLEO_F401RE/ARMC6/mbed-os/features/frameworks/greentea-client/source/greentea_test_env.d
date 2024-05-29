@@ -94,8 +94,9 @@ BUILD/NUCLEO_F401RE/ARMC6/mbed-os/features/frameworks/greentea-client/source/gre
   mbed-os/drivers/SerialBase.h mbed-os/platform/Callback.h \
   mbed-os/hal/serial_api.h mbed-os/hal/pinmap.h mbed-os/hal/buffer.h \
   mbed-os/hal/dma_api.h mbed-os/platform/NonCopyable.h \
-  mbed-os/platform/CThunk.h mbed-os/platform/internal/CThunkBase.h \
-  mbed-os/platform/SingletonPtr.h mbed-os/platform/mbed_atomic.h \
+  mbed-os/platform/mbed_debug.h mbed-os/platform/CThunk.h \
+  mbed-os/platform/internal/CThunkBase.h mbed-os/platform/SingletonPtr.h \
+  mbed-os/platform/mbed_atomic.h \
   mbed-os/platform/cxxsupport/mstd_type_traits \
   mbed-os/platform/cxxsupport/mstd_cstddef \
   mbed-os/platform/internal/mbed_atomic_impl.h \

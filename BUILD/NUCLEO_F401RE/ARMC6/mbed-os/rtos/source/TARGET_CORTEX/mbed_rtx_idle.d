@@ -91,7 +91,7 @@ BUILD/NUCLEO_F401RE/ARMC6/mbed-os/rtos/source/TARGET_CORTEX/mbed_rtx_idle.o: \
   mbed-os/targets/TARGET_STM/TARGET_STM32F4/TARGET_STM32F401xE/device/us_ticker_data.h \
   mbed-os/platform/source/mbed_os_timer.h \
   mbed-os/platform/source/SysTimer.h mbed-os/platform/NonCopyable.h \
-  mbed-os/platform/mbed_atomic.h \
+  mbed-os/platform/mbed_debug.h mbed-os/platform/mbed_atomic.h \
   mbed-os/platform/cxxsupport/mstd_type_traits \
   mbed-os/platform/cxxsupport/mstd_cstddef \
   mbed-os/platform/internal/mbed_atomic_impl.h \

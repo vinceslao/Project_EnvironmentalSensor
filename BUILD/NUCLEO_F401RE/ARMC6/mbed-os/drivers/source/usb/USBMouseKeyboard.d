@@ -24,10 +24,11 @@ BUILD/NUCLEO_F401RE/ARMC6/mbed-os/drivers/source/usb/USBMouseKeyboard.o: \
   mbed-os/rtos/source/TARGET_CORTEX/mbed_rtx_storage.h \
   mbed-os/rtos/source/TARGET_CORTEX/mbed_rtx_conf.h \
   mbed-os/targets/TARGET_STM/mbed_rtx.h mbed-os/platform/NonCopyable.h \
-  mbed-os/platform/ScopedLock.h mbed-os/rtos/Semaphore.h \
-  mbed-os/platform/PlatformMutex.h mbed-os/drivers/USBKeyboard.h \
-  mbed-os/platform/Stream.h mbed-os/platform/platform.h \
-  mbed-os/platform/mbed_retarget.h mbed-os/targets/TARGET_STM/device.h \
+  mbed-os/platform/mbed_debug.h mbed-os/platform/ScopedLock.h \
+  mbed-os/rtos/Semaphore.h mbed-os/platform/PlatformMutex.h \
+  mbed-os/drivers/USBKeyboard.h mbed-os/platform/Stream.h \
+  mbed-os/platform/platform.h mbed-os/platform/mbed_retarget.h \
+  mbed-os/targets/TARGET_STM/device.h \
   mbed-os/targets/TARGET_STM/TARGET_STM32F4/TARGET_STM32F401xE/objects.h \
   mbed-os/targets/TARGET_STM/TARGET_STM32F4/cmsis.h \
   mbed-os/targets/TARGET_STM/TARGET_STM32F4/TARGET_STM32F401xE/device/stm32f4xx.h \

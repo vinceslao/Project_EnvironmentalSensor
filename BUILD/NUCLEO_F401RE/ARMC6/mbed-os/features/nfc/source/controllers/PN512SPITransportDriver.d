@@ -100,8 +100,8 @@ BUILD/NUCLEO_F401RE/ARMC6/mbed-os/features/nfc/source/controllers/PN512SPITransp
   mbed-os/features/nfc/acore/acore/ac_stream.h \
   mbed-os/features/nfc/controllers/PN512TransportDriver.h \
   mbed-os/drivers/SPI.h mbed-os/platform/PlatformMutex.h \
-  mbed-os/platform/NonCopyable.h mbed-os/rtos/Mutex.h \
-  mbed-os/rtos/mbed_rtos_types.h \
+  mbed-os/platform/NonCopyable.h mbed-os/platform/mbed_debug.h \
+  mbed-os/rtos/Mutex.h mbed-os/rtos/mbed_rtos_types.h \
   mbed-os/rtos/source/TARGET_CORTEX/rtx5/Include/cmsis_os2.h \
   mbed-os/rtos/mbed_rtos1_types.h \
   mbed-os/rtos/source/TARGET_CORTEX/rtx4/cmsis_os.h \

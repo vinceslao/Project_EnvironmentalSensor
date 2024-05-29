@@ -97,8 +97,8 @@ BUILD/NUCLEO_F401RE/ARMC6/mbed-os/features/storage/filesystem/littlefs/LittleFil
   mbed-os/platform/internal/mbed_atomic_impl.h \
   mbed-os/rtos/source/TARGET_CORTEX/rtx5/Include/cmsis_os2.h \
   mbed-os/platform/PlatformMutex.h mbed-os/platform/NonCopyable.h \
-  mbed-os/rtos/Mutex.h mbed-os/rtos/mbed_rtos_types.h \
-  mbed-os/rtos/mbed_rtos1_types.h \
+  mbed-os/platform/mbed_debug.h mbed-os/rtos/Mutex.h \
+  mbed-os/rtos/mbed_rtos_types.h mbed-os/rtos/mbed_rtos1_types.h \
   mbed-os/rtos/source/TARGET_CORTEX/rtx4/cmsis_os.h \
   mbed-os/rtos/source/TARGET_CORTEX/rtx5/RTX/Include/rtx_os.h \
   mbed-os/rtos/mbed_rtos_storage.h \
@@ -117,5 +117,5 @@ BUILD/NUCLEO_F401RE/ARMC6/mbed-os/features/storage/filesystem/littlefs/LittleFil
   mbed-os/features/storage/filesystem/littlefs/LittleFileSystem.h \
   mbed-os/features/storage/filesystem/littlefs/littlefs/lfs.h \
   mbed-os/features/storage/filesystem/littlefs/littlefs/lfs_util.h \
-  mbed-os/platform/mbed_debug.h mbed-os/drivers/MbedCRC.h \
-  mbed-os/drivers/internal/TableCRC.h mbed-os/hal/crc_api.h
+  mbed-os/drivers/MbedCRC.h mbed-os/drivers/internal/TableCRC.h \
+  mbed-os/hal/crc_api.h

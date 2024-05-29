@@ -97,8 +97,9 @@ BUILD/NUCLEO_F401RE/ARMC6/mbed-os/components/802.15.4_RF/stm-s2lp-rf-driver/sour
   mbed-os/drivers/DigitalOut.h mbed-os/drivers/InterruptIn.h \
   mbed-os/hal/gpio_irq_api.h mbed-os/platform/Callback.h \
   mbed-os/platform/mbed_critical.h mbed-os/platform/NonCopyable.h \
-  mbed-os/drivers/SPI.h mbed-os/platform/PlatformMutex.h \
-  mbed-os/rtos/Mutex.h mbed-os/rtos/mbed_rtos_types.h \
+  mbed-os/platform/mbed_debug.h mbed-os/drivers/SPI.h \
+  mbed-os/platform/PlatformMutex.h mbed-os/rtos/Mutex.h \
+  mbed-os/rtos/mbed_rtos_types.h \
   mbed-os/rtos/source/TARGET_CORTEX/rtx5/Include/cmsis_os2.h \
   mbed-os/rtos/mbed_rtos1_types.h \
   mbed-os/rtos/source/TARGET_CORTEX/rtx4/cmsis_os.h \

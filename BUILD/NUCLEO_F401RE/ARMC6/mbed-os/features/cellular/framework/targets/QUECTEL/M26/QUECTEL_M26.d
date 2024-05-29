@@ -17,8 +17,8 @@ BUILD/NUCLEO_F401RE/ARMC6/mbed-os/features/cellular/framework/targets/QUECTEL/M2
   mbed-os/rtos/source/TARGET_CORTEX/rtx5/RTX/Include/rtx_os.h \
   mbed-os/rtos/source/TARGET_CORTEX/mbed_rtx_conf.h \
   mbed-os/targets/TARGET_STM/mbed_rtx.h mbed-os/platform/NonCopyable.h \
-  mbed-os/drivers/UARTSerial.h mbed-os/platform/platform.h \
-  mbed-os/targets/TARGET_STM/device.h \
+  mbed-os/platform/mbed_debug.h mbed-os/drivers/UARTSerial.h \
+  mbed-os/platform/platform.h mbed-os/targets/TARGET_STM/device.h \
   mbed-os/targets/TARGET_STM/TARGET_STM32F4/TARGET_STM32F401xE/objects.h \
   mbed-os/targets/TARGET_STM/TARGET_STM32F4/cmsis.h \
   mbed-os/targets/TARGET_STM/TARGET_STM32F4/TARGET_STM32F401xE/device/stm32f4xx.h \

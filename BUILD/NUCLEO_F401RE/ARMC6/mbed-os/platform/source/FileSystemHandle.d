@@ -91,4 +91,4 @@ BUILD/NUCLEO_F401RE/ARMC6/mbed-os/platform/source/FileSystemHandle.o: \
   mbed-os/targets/TARGET_STM/TARGET_STM32F4/TARGET_STM32F401xE/device/us_ticker_data.h \
   mbed-os/platform/FileHandle.h mbed-os/platform/Callback.h \
   mbed-os/platform/mbed_poll.h mbed-os/platform/NonCopyable.h \
-  mbed-os/platform/DirHandle.h
+  mbed-os/platform/mbed_debug.h mbed-os/platform/DirHandle.h

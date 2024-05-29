@@ -14,6 +14,7 @@ BUILD/NUCLEO_F401RE/ARMC6/mbed-os/drivers/source/usb/OperationListBase.o: \
   mbed-os/rtos/source/TARGET_CORTEX/mbed_rtx_storage.h \
   mbed-os/rtos/source/TARGET_CORTEX/mbed_rtx_conf.h \
   mbed-os/targets/TARGET_STM/mbed_rtx.h mbed-os/platform/NonCopyable.h \
-  mbed-os/platform/ScopedLock.h mbed-os/platform/mbed_toolchain.h \
-  mbed-os/platform/mbed_preprocessor.h mbed-os/rtos/Semaphore.h \
-  mbed-os/platform/Callback.h mbed-os/platform/mbed_assert.h
+  mbed-os/platform/mbed_toolchain.h mbed-os/platform/mbed_preprocessor.h \
+  mbed-os/platform/mbed_debug.h mbed-os/platform/ScopedLock.h \
+  mbed-os/rtos/Semaphore.h mbed-os/platform/Callback.h \
+  mbed-os/platform/mbed_assert.h

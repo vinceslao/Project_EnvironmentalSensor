@@ -89,5 +89,5 @@ BUILD/NUCLEO_F401RE/ARMC6/mbed-os/drivers/source/Timeout.o: \
   mbed-os/platform/mbed_preprocessor.h \
   mbed-os/targets/TARGET_STM/us_ticker_defines.h \
   mbed-os/targets/TARGET_STM/TARGET_STM32F4/TARGET_STM32F401xE/device/us_ticker_data.h \
-  mbed-os/platform/NonCopyable.h mbed-os/platform/Callback.h \
-  mbed-os/hal/lp_ticker_api.h
+  mbed-os/platform/NonCopyable.h mbed-os/platform/mbed_debug.h \
+  mbed-os/platform/Callback.h mbed-os/hal/lp_ticker_api.h

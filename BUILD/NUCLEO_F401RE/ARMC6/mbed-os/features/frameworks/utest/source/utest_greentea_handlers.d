@@ -105,5 +105,5 @@ BUILD/NUCLEO_F401RE/ARMC6/mbed-os/features/frameworks/utest/source/utest_greente
   mbed-os/platform/mbed_retarget.h mbed-os/drivers/SerialBase.h \
   mbed-os/platform/Callback.h mbed-os/hal/serial_api.h \
   mbed-os/hal/pinmap.h mbed-os/hal/buffer.h mbed-os/hal/dma_api.h \
-  mbed-os/platform/NonCopyable.h mbed-os/platform/CThunk.h \
-  mbed-os/platform/internal/CThunkBase.h
+  mbed-os/platform/NonCopyable.h mbed-os/platform/mbed_debug.h \
+  mbed-os/platform/CThunk.h mbed-os/platform/internal/CThunkBase.h

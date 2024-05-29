@@ -183,7 +183,7 @@ void start_advertising(BLE &ble) {
     ble::adv_interval_t max( 2000 );
     ble::AdvertisingParameters advParam(  ble::advertising_type_t::CONNECTABLE_UNDIRECTED, ble::adv_interval_t(ble::millisecond_t(1000)) );
 
-    builder.setAppearance(ble::adv_data_appearance_t::GENERIC_HEART_RATE_SENSOR );
+    builder.setAppearance(ble::adv_data_appearance_t::GENERIC_THERMOMETER );
     builder.setName( "Environmental Sensor");
     builder.setLocalServiceList( uuid_list );
     

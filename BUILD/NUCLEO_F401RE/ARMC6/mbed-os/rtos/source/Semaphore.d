@@ -11,9 +11,10 @@ BUILD/NUCLEO_F401RE/ARMC6/mbed-os/rtos/source/Semaphore.o: \
   mbed-os/rtos/source/TARGET_CORTEX/mbed_rtx_conf.h \
   mbed-os/targets/TARGET_STM/mbed_rtx.h \
   mbed-os/platform/mbed_toolchain.h mbed-os/platform/mbed_preprocessor.h \
-  mbed-os/platform/NonCopyable.h mbed-os/rtos/Kernel.h \
-  mbed-os/platform/mbed_assert.h mbed-os/platform/mbed_critical.h \
-  mbed-os/platform/mbed_error.h mbed-os/platform/mbed_retarget.h \
+  mbed-os/platform/NonCopyable.h mbed-os/platform/mbed_debug.h \
+  mbed-os/rtos/Kernel.h mbed-os/platform/mbed_assert.h \
+  mbed-os/platform/mbed_critical.h mbed-os/platform/mbed_error.h \
+  mbed-os/platform/mbed_retarget.h \
   mbed-os/platform/source/mbed_os_timer.h \
   mbed-os/platform/source/SysTimer.h mbed-os/platform/mbed_atomic.h \
   mbed-os/targets/TARGET_STM/TARGET_STM32F4/cmsis.h \

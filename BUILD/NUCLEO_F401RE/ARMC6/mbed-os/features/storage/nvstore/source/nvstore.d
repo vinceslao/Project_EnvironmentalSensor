@@ -2,8 +2,10 @@ BUILD/NUCLEO_F401RE/ARMC6/mbed-os/features/storage/nvstore/source/nvstore.o: \
   mbed-os/features/storage/nvstore/source/nvstore.cpp \
   BUILD/NUCLEO_F401RE/ARMC6/mbed_config.h \
   mbed-os/features/storage/nvstore/source/nvstore.h \
-  mbed-os/platform/NonCopyable.h mbed-os/platform/PlatformMutex.h \
-  mbed-os/rtos/Mutex.h mbed-os/rtos/mbed_rtos_types.h \
+  mbed-os/platform/NonCopyable.h mbed-os/platform/mbed_toolchain.h \
+  mbed-os/platform/mbed_preprocessor.h mbed-os/platform/mbed_debug.h \
+  mbed-os/platform/PlatformMutex.h mbed-os/rtos/Mutex.h \
+  mbed-os/rtos/mbed_rtos_types.h \
   mbed-os/rtos/source/TARGET_CORTEX/rtx5/Include/cmsis_os2.h \
   mbed-os/rtos/mbed_rtos1_types.h \
   mbed-os/rtos/source/TARGET_CORTEX/rtx4/cmsis_os.h \
@@ -12,7 +14,6 @@ BUILD/NUCLEO_F401RE/ARMC6/mbed-os/features/storage/nvstore/source/nvstore.o: \
   mbed-os/rtos/source/TARGET_CORTEX/mbed_rtx_storage.h \
   mbed-os/rtos/source/TARGET_CORTEX/mbed_rtx_conf.h \
   mbed-os/targets/TARGET_STM/mbed_rtx.h mbed-os/platform/ScopedLock.h \
-  mbed-os/platform/mbed_toolchain.h mbed-os/platform/mbed_preprocessor.h \
   mbed-os/drivers/FlashIAP.h mbed-os/hal/flash_api.h \
   mbed-os/targets/TARGET_STM/device.h \
   mbed-os/targets/TARGET_STM/TARGET_STM32F4/TARGET_STM32F401xE/objects.h \

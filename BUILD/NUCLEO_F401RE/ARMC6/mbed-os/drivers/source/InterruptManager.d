@@ -75,8 +75,9 @@ BUILD/NUCLEO_F401RE/ARMC6/mbed-os/drivers/source/InterruptManager.o: \
   mbed-os/platform/mbed_toolchain.h mbed-os/platform/mbed_preprocessor.h \
   mbed-os/drivers/InterruptManager.h mbed-os/platform/CallChain.h \
   mbed-os/platform/Callback.h mbed-os/platform/mbed_assert.h \
-  mbed-os/platform/NonCopyable.h mbed-os/platform/PlatformMutex.h \
-  mbed-os/rtos/Mutex.h mbed-os/rtos/mbed_rtos_types.h \
+  mbed-os/platform/NonCopyable.h mbed-os/platform/mbed_debug.h \
+  mbed-os/platform/PlatformMutex.h mbed-os/rtos/Mutex.h \
+  mbed-os/rtos/mbed_rtos_types.h \
   mbed-os/rtos/source/TARGET_CORTEX/rtx5/Include/cmsis_os2.h \
   mbed-os/rtos/mbed_rtos1_types.h \
   mbed-os/rtos/source/TARGET_CORTEX/rtx4/cmsis_os.h \

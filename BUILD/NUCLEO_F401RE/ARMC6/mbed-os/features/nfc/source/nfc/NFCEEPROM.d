@@ -11,6 +11,7 @@ BUILD/NUCLEO_F401RE/ARMC6/mbed-os/features/nfc/source/nfc/NFCEEPROM.o: \
   mbed-os/targets/TARGET_STM/mbed_rtx.h mbed-os/platform/Callback.h \
   mbed-os/platform/mbed_assert.h mbed-os/platform/mbed_toolchain.h \
   mbed-os/platform/mbed_preprocessor.h mbed-os/platform/NonCopyable.h \
+  mbed-os/platform/mbed_debug.h \
   mbed-os/features/nfc/nfc/NFCDefinitions.h \
   mbed-os/features/nfc/stack/nfc_errors.h \
   mbed-os/features/nfc/acore/acore/ac_buffer.h \

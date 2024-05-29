@@ -12,6 +12,7 @@ BUILD/NUCLEO_F401RE/ARMC6/mbed-os/features/lorawan/lorastack/mac/LoRaMac.o: \
   mbed-os/targets/TARGET_STM/mbed_rtx.h mbed-os/platform/Callback.h \
   mbed-os/platform/mbed_assert.h mbed-os/platform/mbed_toolchain.h \
   mbed-os/platform/mbed_preprocessor.h mbed-os/platform/NonCopyable.h \
+  mbed-os/platform/mbed_debug.h \
   mbed-os/features/lorawan/lorastack/phy/LoRaPHY.h \
   mbed-os/features/lorawan/system/LoRaWANTimer.h \
   mbed-os/features/lorawan/system/lorawan_data_structures.h \

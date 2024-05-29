@@ -90,13 +90,13 @@ BUILD/NUCLEO_F401RE/ARMC6/mbed-os/drivers/source/UARTSerial.o: \
   mbed-os/targets/TARGET_STM/TARGET_STM32F4/TARGET_STM32F401xE/device/us_ticker_data.h \
   mbed-os/platform/FileHandle.h mbed-os/platform/Callback.h \
   mbed-os/platform/mbed_poll.h mbed-os/platform/NonCopyable.h \
-  mbed-os/drivers/SerialBase.h mbed-os/hal/serial_api.h \
-  mbed-os/hal/pinmap.h mbed-os/hal/buffer.h mbed-os/hal/dma_api.h \
-  mbed-os/platform/CThunk.h mbed-os/platform/internal/CThunkBase.h \
-  mbed-os/drivers/InterruptIn.h mbed-os/hal/gpio_api.h \
-  mbed-os/hal/gpio_irq_api.h mbed-os/platform/mbed_critical.h \
-  mbed-os/platform/PlatformMutex.h mbed-os/rtos/Mutex.h \
-  mbed-os/rtos/mbed_rtos_types.h \
+  mbed-os/platform/mbed_debug.h mbed-os/drivers/SerialBase.h \
+  mbed-os/hal/serial_api.h mbed-os/hal/pinmap.h mbed-os/hal/buffer.h \
+  mbed-os/hal/dma_api.h mbed-os/platform/CThunk.h \
+  mbed-os/platform/internal/CThunkBase.h mbed-os/drivers/InterruptIn.h \
+  mbed-os/hal/gpio_api.h mbed-os/hal/gpio_irq_api.h \
+  mbed-os/platform/mbed_critical.h mbed-os/platform/PlatformMutex.h \
+  mbed-os/rtos/Mutex.h mbed-os/rtos/mbed_rtos_types.h \
   mbed-os/rtos/source/TARGET_CORTEX/rtx5/Include/cmsis_os2.h \
   mbed-os/rtos/mbed_rtos1_types.h \
   mbed-os/rtos/source/TARGET_CORTEX/rtx4/cmsis_os.h \

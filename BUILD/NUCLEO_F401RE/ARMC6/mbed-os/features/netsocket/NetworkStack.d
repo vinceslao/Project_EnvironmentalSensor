@@ -16,5 +16,5 @@ BUILD/NUCLEO_F401RE/ARMC6/mbed-os/features/netsocket/NetworkStack.o: \
   mbed-os/rtos/source/TARGET_CORTEX/rtx5/RTX/Include/rtx_os.h \
   mbed-os/rtos/source/TARGET_CORTEX/mbed_rtx_conf.h \
   mbed-os/targets/TARGET_STM/mbed_rtx.h mbed-os/platform/NonCopyable.h \
-  mbed-os/events/mbed_shared_queues.h mbed-os/platform/mbed_error.h \
-  mbed-os/platform/mbed_retarget.h
+  mbed-os/platform/mbed_debug.h mbed-os/events/mbed_shared_queues.h \
+  mbed-os/platform/mbed_error.h mbed-os/platform/mbed_retarget.h

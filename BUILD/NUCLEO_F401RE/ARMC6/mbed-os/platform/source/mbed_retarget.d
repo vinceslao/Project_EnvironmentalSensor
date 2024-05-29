@@ -87,7 +87,8 @@ BUILD/NUCLEO_F401RE/ARMC6/mbed-os/platform/source/mbed_retarget.o: \
   mbed-os/rtos/source/TARGET_CORTEX/mbed_rtx_storage.h \
   mbed-os/rtos/source/TARGET_CORTEX/mbed_rtx_conf.h \
   mbed-os/targets/TARGET_STM/mbed_rtx.h mbed-os/platform/NonCopyable.h \
-  mbed-os/platform/ScopedLock.h mbed-os/platform/cxxsupport/mstd_utility \
+  mbed-os/platform/mbed_debug.h mbed-os/platform/ScopedLock.h \
+  mbed-os/platform/cxxsupport/mstd_utility \
   mbed-os/platform/cxxsupport/mstd_functional \
   mbed-os/platform/cxxsupport/mstd_memory \
   mbed-os/platform/cxxsupport/mstd_iterator mbed-os/platform/platform.h \

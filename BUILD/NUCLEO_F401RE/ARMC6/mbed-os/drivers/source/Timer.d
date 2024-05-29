@@ -89,5 +89,5 @@ BUILD/NUCLEO_F401RE/ARMC6/mbed-os/drivers/source/Timer.o: \
   mbed-os/targets/TARGET_STM/us_ticker_defines.h \
   mbed-os/targets/TARGET_STM/TARGET_STM32F4/TARGET_STM32F401xE/device/us_ticker_data.h \
   mbed-os/hal/ticker_api.h mbed-os/platform/NonCopyable.h \
-  mbed-os/hal/us_ticker_api.h mbed-os/platform/mbed_critical.h \
-  mbed-os/platform/mbed_power_mgmt.h
+  mbed-os/platform/mbed_debug.h mbed-os/hal/us_ticker_api.h \
+  mbed-os/platform/mbed_critical.h mbed-os/platform/mbed_power_mgmt.h

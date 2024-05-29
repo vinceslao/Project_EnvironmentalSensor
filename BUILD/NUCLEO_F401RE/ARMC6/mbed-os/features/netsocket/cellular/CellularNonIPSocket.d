@@ -16,7 +16,8 @@ BUILD/NUCLEO_F401RE/ARMC6/mbed-os/features/netsocket/cellular/CellularNonIPSocke
   mbed-os/rtos/source/TARGET_CORTEX/mbed_rtx_storage.h \
   mbed-os/rtos/source/TARGET_CORTEX/mbed_rtx_conf.h \
   mbed-os/targets/TARGET_STM/mbed_rtx.h mbed-os/platform/NonCopyable.h \
-  mbed-os/platform/ScopedLock.h mbed-os/rtos/EventFlags.h \
+  mbed-os/platform/mbed_debug.h mbed-os/platform/ScopedLock.h \
+  mbed-os/rtos/EventFlags.h \
   mbed-os/features/netsocket/cellular/ControlPlane_netif.h \
   mbed-os/features/cellular/framework/API/CellularContext.h \
   mbed-os/features/netsocket/CellularInterface.h \

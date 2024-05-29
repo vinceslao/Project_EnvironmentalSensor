@@ -91,5 +91,6 @@ BUILD/NUCLEO_F401RE/ARMC6/mbed-os/hal/LowPowerTickerWrapper.o: \
   mbed-os/hal/ticker_api.h mbed-os/hal/us_ticker_api.h \
   mbed-os/drivers/Timeout.h mbed-os/drivers/Ticker.h \
   mbed-os/platform/cxxsupport/mstd_utility mbed-os/drivers/TimerEvent.h \
-  mbed-os/platform/NonCopyable.h mbed-os/platform/Callback.h \
-  mbed-os/hal/lp_ticker_api.h mbed-os/platform/mbed_critical.h
+  mbed-os/platform/NonCopyable.h mbed-os/platform/mbed_debug.h \
+  mbed-os/platform/Callback.h mbed-os/hal/lp_ticker_api.h \
+  mbed-os/platform/mbed_critical.h

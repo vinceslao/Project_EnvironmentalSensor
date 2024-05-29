@@ -10,7 +10,9 @@ BUILD/NUCLEO_F401RE/ARMC6/mbed-os/rtos/source/EventFlags.o: \
   mbed-os/rtos/source/TARGET_CORTEX/mbed_rtx_storage.h \
   mbed-os/rtos/source/TARGET_CORTEX/mbed_rtx_conf.h \
   mbed-os/targets/TARGET_STM/mbed_rtx.h mbed-os/platform/NonCopyable.h \
-  mbed-os/rtos/ThisThread.h mbed-os/platform/source/mbed_os_timer.h \
+  mbed-os/platform/mbed_toolchain.h mbed-os/platform/mbed_preprocessor.h \
+  mbed-os/platform/mbed_debug.h mbed-os/rtos/ThisThread.h \
+  mbed-os/platform/source/mbed_os_timer.h \
   mbed-os/platform/source/SysTimer.h mbed-os/platform/mbed_atomic.h \
   mbed-os/targets/TARGET_STM/TARGET_STM32F4/cmsis.h \
   mbed-os/targets/TARGET_STM/TARGET_STM32F4/TARGET_STM32F401xE/device/stm32f4xx.h \
@@ -83,7 +85,6 @@ BUILD/NUCLEO_F401RE/ARMC6/mbed-os/rtos/source/EventFlags.o: \
   mbed-os/targets/TARGET_STM/TARGET_STM32F4/device/stm32f4xx_hal_lptim.h \
   mbed-os/targets/TARGET_STM/TARGET_STM32F4/device/stm32f4xx_hal_mmc.h \
   mbed-os/targets/TARGET_STM/TARGET_STM32F4/TARGET_STM32F401xE/device/cmsis_nvic.h \
-  mbed-os/platform/mbed_toolchain.h mbed-os/platform/mbed_preprocessor.h \
   mbed-os/platform/cxxsupport/mstd_type_traits \
   mbed-os/platform/cxxsupport/mstd_cstddef \
   mbed-os/platform/internal/mbed_atomic_impl.h \

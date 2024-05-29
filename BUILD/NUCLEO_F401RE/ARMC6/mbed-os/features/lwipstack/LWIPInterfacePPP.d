@@ -138,7 +138,7 @@ BUILD/NUCLEO_F401RE/ARMC6/mbed-os/features/lwipstack/LWIPInterfacePPP.o: \
   mbed-os/targets/TARGET_STM/gpio_object.h \
   mbed-os/targets/TARGET_STM/us_ticker_defines.h \
   mbed-os/targets/TARGET_STM/TARGET_STM32F4/TARGET_STM32F401xE/device/us_ticker_data.h \
-  mbed-os/platform/NonCopyable.h \
+  mbed-os/platform/NonCopyable.h mbed-os/platform/mbed_debug.h \
   mbed-os/features/netsocket/NetStackMemoryManager.h \
   mbed-os/features/netsocket/nsapi.h \
   mbed-os/features/netsocket/SocketAddress.h \

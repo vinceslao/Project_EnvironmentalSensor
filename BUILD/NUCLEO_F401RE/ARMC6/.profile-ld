@@ -7,9 +7,7 @@
         "--legacyalign",
         "--predefine=\"-DMBED_BOOT_STACK_SIZE=1024\"",
         "--predefine=\"-DXIP_ENABLE=0\"",
-        "--remove",
-        "--show_full_path",
-        "--verbose"
+        "--show_full_path"
     ],
     "macros": [],
     "symbols": [
@@ -42,7 +40,7 @@
         "DEVICE_USTICKER=1",
         "DEVICE_WATCHDOG=1",
         "FEATURE_BLE=1",
-        "MBED_BUILD_TIMESTAMP=1716370652.251199",
+        "MBED_BUILD_TIMESTAMP=1716974884.387983",
         "TARGET_CORDIO",
         "TARGET_CORDIO_BLUENRG",
         "TARGET_CORTEX",
